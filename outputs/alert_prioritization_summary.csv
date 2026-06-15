@@ -1,0 +1,4 @@
+review_strategy,alerts_reviewed,fraud_caught,recall,precision
+Critical only,21926,1860.0,0.2265,0.0848
+High + Critical,271029,6096.0,0.7422,0.0225
+Medium + High + Critical,2327004,8180.0,0.996,0.0035

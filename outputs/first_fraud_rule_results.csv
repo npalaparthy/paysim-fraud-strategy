@@ -1,0 +1,2 @@
+total_transactions,flagged_transactions,total_fraud_transactions,true_positives,false_positives,false_negatives,recall,precision
+6362620,1197669.0,8213.0,5471.0,1192198.0,2742.0,0.6661,0.0046

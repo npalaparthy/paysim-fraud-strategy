@@ -1,0 +1,3 @@
+isFraud,total_transactions,risky_type_rate,high_amount_rate,high_depletion_rate,destination_mismatch_rate_within_risky_types
+1,8213,1.0,0.4705,0.9784,0.5158
+0,6354407,0.4347,0.0529,0.3191,0.0961

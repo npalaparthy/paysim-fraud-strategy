@@ -1,0 +1,5 @@
+risk_tier,total_transactions,fraud_transactions,fraud_rate
+Critical,21926,1860.0,0.084831
+High,249103,4236.0,0.017005
+Medium,1241512,2084.0,0.001679
+Low,4850079,33.0,7e-06

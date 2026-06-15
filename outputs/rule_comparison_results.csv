@@ -1,0 +1,4 @@
+rule_name,flagged_transactions,true_positives,false_positives,false_negatives,recall,precision
+Rule 3: Type + Amount >= 500K + 90% Depletion,158363.0,3725.0,154638.0,4488.0,0.4535,0.0235
+Rule 2: Type + Amount >= 500K,314301.0,3864.0,310437.0,4349.0,0.4705,0.0123
+Rule 1: Type + Amount >= 200K,1197669.0,5471.0,1192198.0,2742.0,0.6661,0.0046
